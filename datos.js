@@ -48,6 +48,15 @@ window.NEGOCIO = {
   ],
   "productos": [
     {
+      "id": 1795189351854,
+      "nombre": "KIT DE TINTAS EPSON504",
+      "categoria": "Impresoras",
+      "descripcion": "",
+      "precio": "L.1,400",
+      "imagen": "KIT504.jpg",
+      "disponible": true
+    },
+    {
       "id": 1795107924442,
       "nombre": "KIT DE TINTAS NKT GENERICAS544",
       "categoria": "Impresoras",
@@ -70,7 +79,7 @@ window.NEGOCIO = {
       "nombre": "EPSON WorkForce Pro WF-M5899",
       "categoria": "Impresoras",
       "descripcion": "Especificaciones:\nWI-FI, IMPRIME, COPIA, ESCANEA, FAX, ETHERNET",
-      "precio": "L.21,000",
+      "precio": "L.22,500",
       "imagen": "EPSONWF.jpg",
       "disponible": true
     },
