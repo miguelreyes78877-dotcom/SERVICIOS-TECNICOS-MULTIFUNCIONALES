@@ -48,10 +48,19 @@ window.NEGOCIO = {
   ],
   "productos": [
     {
+      "id": 1795190669517,
+      "nombre": "MOUSE XTech XTM310",
+      "categoria": "Electrodomésticos",
+      "descripcion": "Especificaciones\n-Diseño Ambidiestro\n-Inalámbrico 2,4GHz\n-DPI Resolución\n- Compatible con PC Y MAC ",
+      "precio": "L.200",
+      "imagen": "MOUSEXTECH.jpg",
+      "disponible": true
+    },
+    {
       "id": 1795189351854,
       "nombre": "KIT DE TINTAS EPSON504",
       "categoria": "Impresoras",
-      "descripcion": "",
+      "descripcion": "Especificaciones:\npara: L4150/L4160/L4260/L4360/L6161/L6171/L6191/L6270/L6370/L14150",
       "precio": "L.1,400",
       "imagen": "KIT504.jpg",
       "disponible": true
@@ -69,7 +78,7 @@ window.NEGOCIO = {
       "id": 1795107493164,
       "nombre": "KIT DE TINTAS EPSON544",
       "categoria": "Impresoras",
-      "descripcion": "Colores:\n-Negro\n-Amarillo\n-Magenta\n-Azul",
+      "descripcion": "Especificaciones:\nPara: L1110/L1210/L1250/L1350/L3110/L3160/L3210/L3250/L3251/L3260/L3310/L3350/L3351/L3352/L5190/L5290/L5590",
       "precio": "L.1,260",
       "imagen": "KIT544.jpg",
       "disponible": true
